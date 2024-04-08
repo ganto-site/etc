@@ -1,0 +1,49 @@
+---
+added: 2024-04-08 04&#58;36&#58;50.067145
+thumbnail: https://ganto-site.github.io/etc/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16/full/105,/0/default.jpg
+title: "\u5CA1\u90E8\u5F18\u660E"
+user: ganto-site
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//manifest.json",
+  "@type": "sc:Manifest",
+  "label": "\u5ca1\u90e8\u5f18\u660e",
+  "description": "\u5275\u4fa1\u5b66\u4f1a\u54e1\u306b\u3088\u308b\u611b\u60c5\u306b\u304b\u3089\u307e\u308b\u6bba\u4eba",
+  "viewingDirection": "right-to-left",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json",
+          "@type": "sc:Canvas",
+          "label": "digidepo_1349103_pn_null_b5fdd011-5c04-4f3f-8c98-657e048eac16",
+          "thumbnail": "https://ganto-site.github.io/etc/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16/full/105,/0/default.jpg",
+          "height": 4320,
+          "width": 6694,
+          "images": [
+            {
+              "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4320,
+                "width": 6694,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
