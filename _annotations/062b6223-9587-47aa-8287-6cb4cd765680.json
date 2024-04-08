@@ -7,12 +7,14 @@ order: 1
     "@id": "062b6223-9587-47aa-8287-6cb4cd765680.json",
     "@type": "oa:Annotation",
     "motivation": [
-        "oa:commenting"
+        "oa:commenting",
+        "oa:tagging"
     ],
     "oa:annotatedAt": "2024-04-08T06:19:48.672Z",
     "oa:annotatedBy": [
         "ganto-site"
     ],
+    "oa:serializedAt": "2024-04-08T07:00:48.185Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -39,7 +41,10 @@ order: 1
             "@type": "dctypes:Text",
             "chars": "<p>\u5f53\u521d\u306f\u3001\u5f01\u820c\u6975\u3081\u3066\u5de7\u307f\u3067\u3001\u4e00\u898b\u4eba\u3056\u308f\u308a\u3082\u3088\u304f\u3001\u5b66\u4f1a\u306e\u6240\u8b02\u6298\u4f0f\u6597\u4e89\u306b\u306f\u6b8a\u306b\u71b1\u5fc3\u3067\u6070\u304b\u3082\u4fe1\u4ef0\u4e00\u5165\u6df1\u751a\u306b\u307f\u3048\u308b\u88ab\u544a\u4eba\u306e\u614b\u5ea6\u306f\u52ff\u3061\u591a\u6570\u306e\u5b66\u4f1a\u4fe1\u5f92\u3092\u9b45\u4e86\u3057</p>",
             "format": "text/html"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "2024/04/08 \u4e38\u4e8c\u65e5\u9593\u6642\u9593\u304b\u3051\u305f\u3002"
         }
-    ],
-    "oa:serializedAt": "2024-04-08T07:00:30.655Z"
+    ]
 }
