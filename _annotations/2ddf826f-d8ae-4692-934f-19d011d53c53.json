@@ -1,0 +1,44 @@
+---
+canvas: "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json"
+order: 2
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": ""
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2353,689,133,1880"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2352.77907,688.70031h66.56863v0h66.56863v939.8236v939.8236h-66.56863h-66.56863v-939.8236z\"  id=\"rectangle_3ca9e042-a224-4390-871d-14ebf93e1f6e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2024-04-08T06:20:53.974Z",
+    "@id": "2ddf826f-d8ae-4692-934f-19d011d53c53.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
