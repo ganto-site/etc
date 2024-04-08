@@ -1,0 +1,44 @@
+---
+canvas: "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json"
+order: 7
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u5c0f\u5ddd\u5bb6\u3092\u8ffd\u3044\u51fa\u3055\u308c\u305f\u306e\u306f\u5275\u4fa1\u5b66\u4f1a\u5e79\u90e8\u306e\u897f\u5bb6\u671d\u592a\u90ce\u3089\u306e\u4e2d\u50b7\u304c\u5927\u304d\u306a\u5143\u56e0\u3067\u3042\u3064\u305f\u70ba\u306b\u3001\u5b9f\u306f\u5ca1\u7530\u512a\u5b50\u3068\u5a5a\u7d04\u306e\u76c3\u3092\u4ea4\u3057\u3066\u3044\u306a\u3044\u306e\u306b\u5ca1\u7530\u512a\u5b50\u3068\u5a5a\u7d04\u306e\u76c3\u3092\u4ea4\u3057\u305f\u300d\u7b49\u3068\u51fa\u9c48\u76ee\u3092\u4e91\u3064\u3066\u4e2d\u50b7\u3055\u308c\u305f</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1981,715,130,889"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1980.8955,714.55281h64.86707v0h64.86707v444.70805v444.70805h-64.86707h-64.86707v-444.70805z\"  id=\"rectangle_30775a25-0afa-4c74-896f-61067e474819\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2024-04-08T06:43:47.429Z",
+    "@id": "b23323b1-6057-467b-8331-de329d499c47.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
