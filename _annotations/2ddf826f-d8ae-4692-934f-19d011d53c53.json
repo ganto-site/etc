@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "2ddf826f-d8ae-4692-934f-19d011d53c53.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": ""
-        }
+    "oa:annotatedAt": "2024-04-08T06:20:53.974Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2352.77907,688.70031h66.56863v0h66.56863v939.8236v939.8236h-66.56863h-66.56863v-939.8236z\"  id=\"rectangle_3ca9e042-a224-4390-871d-14ebf93e1f6e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2352.77907,688.70031h66.56863v0h66.56863v939.8236v939.8236h-66.56863h-66.56863v-939.8236z\"  id=\"rectangle_3ca9e042-a224-4390-871d-14ebf93e1f6e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"17.88235\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2024-04-08T06:20:53.974Z",
-    "@id": "2ddf826f-d8ae-4692-934f-19d011d53c53.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>\u4f55\u6545\u3001\u5b66\u4f1a\u5e79\u90e8\u306f\u79c1\u9054\u306e\u5a5a\u7d04\u3092\u57f7\u62d7\u306b\u59a8\u5bb3\u3057\u3001\u4e0d\u5e78\u306a\u5c11\u5e74\u4e00\u5bb6\u3092\u6551\u304a\u3046\u3068\u3057\u305f\u5584\u610f\u306e\u6ec5\u5211\u5606\u9858\u66f8\u307e\u3067\u53cd\u5bfe\u3057\u3066\u8e0f\u307f\u306b\u3058\u308a\u8feb\u5bb3\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u304b\u3064\u305f\u306e\u3067\u3057\u3088\u3046\u304b\u3002</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2024-04-08T06:22:45.902Z"
 }
