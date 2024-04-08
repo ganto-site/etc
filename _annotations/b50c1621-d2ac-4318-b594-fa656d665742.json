@@ -1,0 +1,49 @@
+---
+canvas: "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json"
+order: 8
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:tagging",
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "oa:Tag",
+            "chars": "\u6700\u521d\u306e\u65b9\u3060\u3051\u8aad\u3093\u3060\u6bb5\u968e\u3067\u306e\u3001\u4ffa\u306e\u985e\u63a8"
+        },
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>\u5a5a\u7d04\u3057\u3066\u308b\uff1f\u5c0f\u5ddd\u5bb6\u306b\u5165\u308a\u8fbc\u3093\u3067\u3044\u308b\uff1f\u88ab\u544a\u4eba\u5ca1\u90e8\u5f18\u660e\u304c\u9670\u3067\u6d6e\u6c17\u3057\u3066\u3044\u308b\u3053\u3068\u3001\u3057\u304b\u3082\u305d\u306e\u76f8\u624b\u306f\u897f\u5bb6\u306e\u5730\u533a\u306e\u5973\u5b50\u90e8\u54e1\u3067\u3042\u308a\u3001\u305d\u306e\u5973\u5b50\u90e8\u306f\u9686\u5b50\u306e\u5b58\u5728\u306f\u4f55\u3082\u77e5\u3089\u306a\u3044\u306e\u3067\u3042\u308d\u3046\u3002\u305d\u306e\u4e0d\u8aa0\u5b9f\u3055\u3092\u5275\u4fa1\u5b66\u4f1a\u5e79\u90e8\u897f\u5bb6\u304c\u3001\u5c0f\u5ddd\u5bb6\u306e\u6bcd\u89aa\u3053\u3075\u3058\u3068\u5a18\u9686\u5b50\u306b\u6307\u6458\u3057\u305f\u306e\u3060\u308d\u3046\u3002\u5e79\u90e8\u3068\u3057\u3066\u5f53\u7136\u306e\u7fa9\u52d9\u3060\u3002\u53cd\u7701\u306a\u304f\u3001\u7d50\u679c\u7684\u306b\u5bb6\u65cf4\u4eba\u3092\u304a\u306e\u3067\u8972\u6483\u3057\u3001\u6b7b\u5211\u5224\u6c7a\u3092\u53d7\u3051\u3066\u3044\u308b\u3002</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://ganto-site.github.io/etc/canvas/img/derivatives/iiif//digidepo1349103pnnullb5fdd0115c044f3f8c98657e048eac16.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2084,413,34,51"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2101.38047,463.57198c0,-11.32578 5.66289,-22.65156 16.98867,-33.97734c0,-9.38258 -7.60609,-16.98867 -16.98867,-16.98867c-9.38258,0 -16.98867,7.60609 -16.98867,16.98867c11.32578,11.32578 16.98867,22.65156 16.98867,33.97734z\"  id=\"pin_7f9fd08b-466b-4c4f-984a-e86eb374c004\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://ganto-site.github.io/etc/img/derivatives/iiif//manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2024-04-08T06:48:02.766Z",
+    "@id": "b50c1621-d2ac-4318-b594-fa656d665742.json",
+    "oa:annotatedBy": [
+        "ganto-site"
+    ]
+}
