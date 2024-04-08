@@ -4,21 +4,15 @@ order: 6
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "4a4c9a60-368e-4a19-bfcb-d389585b9881.json",
     "@type": "oa:Annotation",
     "motivation": [
-        "oa:tagging",
-        "oa:commenting"
+        "oa:commenting",
+        "oa:tagging"
     ],
-    "resource": [
-        {
-            "@type": "oa:Tag",
-            "chars": "126"
-        },
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>(\u30ed)\u8a3c\u4eba\u897f\u5bb6\u671d\u592a\u90ce\u6c0f\u304c\u300c\u88ab\u544a\u4eba\u304c\u3084\u3064\u3066\u304f\u308c\u3070\u3044\u3064\u3067\u3082\u76f8\u624b\u306b\u306a\u3064\u3066\u3084\u308b\u300d\u4e91\u3005\u3068\u4e00\u5be9\u306b\u3066\u306e\u8a3c\u8a00\u3002</p>"
-        }
+    "oa:annotatedAt": "2024-04-08T06:33:03.114Z",
+    "oa:annotatedBy": [
+        "ganto-site"
     ],
     "on": [
         {
@@ -32,7 +26,7 @@ order: 6
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2115.91268,779.25384h71.02968v0h71.02968v968.81017v968.81017h-71.02968h-71.02968v-968.81017z\"  id=\"rectangle_54c8040a-bd94-49ac-a759-51cf01ef41e4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2115.91268,779.25384h71.02968v0h71.02968v968.81017v968.81017h-71.02968h-71.02968v-968.81017z\"  id=\"rectangle_54c8040a-bd94-49ac-a759-51cf01ef41e4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"16.80712\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -41,9 +35,16 @@ order: 6
             }
         }
     ],
-    "oa:annotatedAt": "2024-04-08T06:33:03.114Z",
-    "@id": "4a4c9a60-368e-4a19-bfcb-d389585b9881.json",
-    "oa:annotatedBy": [
-        "ganto-site"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>(\u30ed)\u8a3c\u4eba\u897f\u5bb6\u671d\u592a\u90ce\u6c0f\u304c\u300c\u88ab\u544a\u4eba\u304c\u3084\u3064\u3066\u304f\u308c\u3070\u3044\u3064\u3067\u3082\u76f8\u624b\u306b\u306a\u3064\u3066\u3084\u308b\u300d\u4e91\u3005\u3068\u4e00\u5be9\u306b\u3066\u306e\u8a3c\u8a00\u3002<br />(\u30a4)\u8a3c\u4eba\u7247\u5e73\u7e41\u4e00\u6c0f(\u5f53\u6642\u5b66\u4f1a\u9752\u5e74\u968a\u9577)\u304c\u300c\u88ab\u544a\u4eba\u3092\u6bb4\u3064\u305f\u308a\u3057\u305f\u4e8b\u304c\u3042\u3064\u305f\u300d<br />&lt;--\u6b63\u76f4\u9177\u3044\u306a\u3068\u3002\u5f53\u6642\u306e\u72b6\u614b\u304c\u308f\u304b\u3089\u306a\u3044\u3051\u3069\u3002</p>",
+            "format": "text/html"
+        },
+        {
+            "@type": "oa:Tag",
+            "chars": "126"
+        }
+    ],
+    "oa:serializedAt": "2024-04-08T06:37:23.653Z"
 }
